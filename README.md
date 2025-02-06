@@ -1,6 +1,11 @@
 # Lista-Atalhos-Excel
-🚀 Excel Shortcuts Guide Um repositório com uma lista de atalhos essenciais do Excel para aumentar a produtividade e facilitar o trabalho com planilhas. 📝⚡  📌 Recursos: ✔️ Atalhos organizados por categorias ✔️ Compatíveis com Windows e Mac ✔️ Formato fácil de visualizar  💡 Contribuições são bem-vindas!
-
+🚀 Excel Shortcuts Guide Um repositório com uma lista de atalhos essenciais do Excel para aumentar a produtividade e facilitar o trabalho com planilhas. 📝⚡  
+📌 Recursos:  <br>
+✔️ Atalhos organizados por categorias <br>
+✔️ Compatíveis com Windows<br>
+✔️ Formato fácil de visualizar  <br>
+💡 Contribuições são bem-vindas!<br>
+<br><br>
 # Atalhos de Teclado - Excel 2016 e 2019
 
 <details>
@@ -277,3 +282,18 @@ painel de tarefas. <br>
 
   </ul>
 </details>
+
+---
+### Autor
+---
+
+<a href="https://www.linkedin.com/in/mmatteuss/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/129124225?s=400&u=4d5fbc2273aa1c74cf224b8ac2f36296c097c067&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>YALE</b></sub></a> 🚀
+
+Feito por YALE, Entre em contato!
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/emodeti)](https://www.instagram.com/emodeti) 
+[![Linkedin Badge](https://img.shields.io/badge/-YALE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmatteuss/)](https://www.linkedin.com/in/mmatteuss/)  
+[![Gmail Badge](https://img.shields.io/badge/-mateusmonteito57@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mateusmonteito57@gmail.com)
